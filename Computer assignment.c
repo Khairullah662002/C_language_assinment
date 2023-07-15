@@ -1,3 +1,11 @@
+/* 
+Name      Khairullah
+f/name    Muhammad Ayub
+Roll no   6
+*/
+
+
+
 #include<stdio.h>
 int prime(int a);
 int main()
